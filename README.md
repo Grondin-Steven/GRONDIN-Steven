@@ -11,6 +11,9 @@ Sevenup, de son nom complet GRONDIN Steven.
 - Nationalitée : Française
 - Profession : Développeur web junior
 
+# Présentation de la formation
+Contient une présentation personnel ainsi que celle de Simplon
+
 |Logo Simplon                         |Titre de la formation
 |----------------|-------------------------------|
 ![enter image description here](https://media-exp1.licdn.com/dms/image/C4D0BAQFpXmsjFZw9qw/company-logo_200_200/0/1599758150810?e=2159024400&v=beta&t=rSQ19_k4gdCqwcEmW7khAtUMqjKACh5e4HYLcjIKOFo) | Développeur WEB et WEB mobile
