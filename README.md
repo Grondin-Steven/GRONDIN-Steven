@@ -19,4 +19,10 @@ Sevenup, de son nom complet GRONDIN Steven.
 - Maquetter une application
 - Réaliser une interface utilisateur web statique et adaptable
 - Développer une interface utilisateur web dynamique
-- Réaliser une interface utilisateur avec une solution
+- Réaliser une interface utilisateur avec une solution de gestion de contenu ou e-commerce
+
+**Back-end**
+- Créer une base de données
+- Développer les composants d'accès aux données
+- Développer la partie back-end d'une application web ou web mobile
+- Elaborer et mettre en oeuvre des composants dans une application de gestion de contenu ou e-commerce
