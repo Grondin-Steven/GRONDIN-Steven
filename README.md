@@ -19,13 +19,21 @@ Contient une présentation personnel ainsi que celle de Simplon
 ![enter image description here](https://media-exp1.licdn.com/dms/image/C4D0BAQFpXmsjFZw9qw/company-logo_200_200/0/1599758150810?e=2159024400&v=beta&t=rSQ19_k4gdCqwcEmW7khAtUMqjKACh5e4HYLcjIKOFo) | Développeur WEB et WEB mobile
 # Référenciel
 **Front-end**
-- Maquetter une application
-- Réaliser une interface utilisateur web statique et adaptable
-- Développer une interface utilisateur web dynamique
-- Réaliser une interface utilisateur avec une solution de gestion de contenu ou e-commerce
+
+ 1.Maquetter une application
+ 
+ 2.Réaliser une interface utilisateur web statique et adaptable
+ 
+ 3.Développer une interface utilisateur web dynamique
+ 
+ 4.Réaliser une interface utilisateur avec une solution de gestion de contenu ou e-commerce
 
 **Back-end**
-- Créer une base de données
-- Développer les composants d'accès aux données
-- Développer la partie back-end d'une application web ou web mobile
-- Elaborer et mettre en oeuvre des composants dans une application de gestion de contenu ou e-commerce
+
+ 5.Créer une base de données
+
+ 6.Développer les composants d'accès aux données
+
+ 7.Développer la partie back-end d'une application web ou web mobile
+ 
+ 8.Elaborer et mettre en oeuvre des composants dans une application de gestion de contenu ou e-commerce
