@@ -8,6 +8,7 @@ Web Developer and Designer
 * 🌍  I'm based in Réunion Island
 * ✉️  You can contact me at [sgrondin83@gmail.com](mailto:sgrondin83@gmail.com)
 * 🧠  I'm learning UX UI
+* https://dribbble.com/Seven766
 
 ### Skills
 
